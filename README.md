@@ -1,5 +1,5 @@
-# nvse_plugin_cmake_template
-An NVSE plugin CMake template. Crazy.
+# 1337nvse
+An NVSE plugin. Crazy.
 
 # Build Instructions
 ## Prerequisites
